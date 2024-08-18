@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Florian</h1>
+## <h1 align="left">Hi 👋, I'm Florian</h1>
 <h3 align="left">A passionate data science student with a finance heart</h3>
 
 - 🔭 I’m currently working on a paper about detection of darknet market addresses on the bitcoin blockchain
@@ -11,14 +11,7 @@
 
 - 💬 Ask me about **Finance, Statistics, ESG and Board Games**
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/floriankorn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="floriankorn" height="30" width="40" /></a>
-<a href="https://kaggle.com/datafabric_fk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="datafabric_fk" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
 - <h4 align="left">Programming Languages</h4>
 <p align="left"> 
@@ -61,12 +54,20 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-
-
-<h3 align="left">Stats:</h3>
+## Stats:
 <p align="middle"> 
-  
-  ![flo1166's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flo1166&theme=ayu-mirage&hide_border=true)</p>
-  
-  ![flo1166's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flo1166&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+  <img src="https://myreadme.vercel.app/api/embed/flo1166?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+</p>
+
+## Connect with me:                            
+<p align="middle">
+  <a href="https://github.com/flo1166" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+  <a href="https://linkedin.com/in/floriankorn" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+  <a href="https://kaggle.com/datafabric_fk" target="blank">
+<img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="datafabric_fk" style="margin-bottom: 5px;" />
+  </a>
 </p>
