@@ -64,5 +64,9 @@
 
 
 <h3 align="left">Stats:</h3>
-![flo1166's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flo1166&theme=ayu-mirage&hide_border=true)
-![flo1166's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flo1166&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+<p align="middle"> 
+  
+  ![flo1166's Streak](https://github-readme-streak-stats.herokuapp.com/?user=flo1166&theme=ayu-mirage&hide_border=true)</p>
+  
+  ![flo1166's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=flo1166&theme=ayu-mirage&show_icons=true&hide_border=true&layout=compact)
+</p>
