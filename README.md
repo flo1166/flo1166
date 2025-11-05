@@ -5,7 +5,7 @@
   
 <h3 align="left">A passionate data science student with a finance heart</h3>
 
-- 🔭 I’m currently working on a paper about detection of darknet market addresses on the bitcoin blockchain
+- 🔭 I’m currently working on a agentic AI security paper + SIXT practical project
 
 - 🌱 I’m currently learning **Deep Learning, PySpark, Forecasting Methods, Pytorch, Databricks, Azure and coding / algorithms**
 
